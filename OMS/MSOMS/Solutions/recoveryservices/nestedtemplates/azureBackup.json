@@ -15,7 +15,9 @@
             "allowedValues": [
                 "westeurope",
                 "eastus",
-                "southeastasia"
+                "southeastasia",
+                "westcentralus",
+                "australiasoutheast"
             ],
             "metadata": {
                 "description": "Specify the Azure Region for your new or existing OMS workspace"
@@ -33,10 +35,16 @@
             "defaultValue": "westeurope",
             "allowedValues": [
                 "westeurope",
-                "southeastasia",
+       "southeastasia",
                 "eastus2",
                 "southcentralus",
-                "japaneast"
+                "japaneast",
+                "australiasoutheast",
+                "canadacentral",
+                "centralindia"
+                "northeurope",
+                "uksouth",
+                "Westcentralus
             ],
             "metadata": {
                 "description": "Specify the Azure Region for your OMS Automation Account"
